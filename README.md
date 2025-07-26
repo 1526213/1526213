@@ -1,4 +1,4 @@
-###Меня зовут Кривко Иван я занимаюсь Frontend разработкой
+***Меня зовут Кривко Иван я занимаюсь Frontend разработкой***
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
